@@ -1,7 +1,7 @@
 # Magic Paper
 
 By Michael Nielsen, October 2017. Written to accompany
-on [a short essay about Magic Paper](http://cognitivemedium.com/magic_paper/index.html).
+[a short essay about Magic Paper](http://cognitivemedium.com/magic_paper/index.html).
 
 Written to target Chrome 62 on OS X Sierra. Not tested at all on other
 browsers.
